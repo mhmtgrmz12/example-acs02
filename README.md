@@ -1,5 +1,5 @@
-# Feature branching showcase example
+# Feature Git branching example
 
-A very hard example of how to use feature branching for kids.
+An example of using feature branching.
 
-## Secondary Heading
+## First Heading
