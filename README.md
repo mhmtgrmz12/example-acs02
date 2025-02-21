@@ -1,5 +1,5 @@
-# Feature branching example
+# Feature branching showcase example
 
-Simple example of how to use feature branching
+A very hard example of how to use feature branching for kids.
 
-## Second Heading
+## Secondary Heading
