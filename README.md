@@ -1,5 +1,5 @@
-# Feature branching example
+# Feature Git branching example
 
-Simple example of how to use feature branching
+An example of using feature branching.
 
-## Second Heading
+## First Heading
